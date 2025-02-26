@@ -1,5 +1,5 @@
 {
-  "name": "vue-lib",
+  "name": "@r-moret/vue-lib",
   "version": "1.0.0",
   "private": true,
   "type": "module",
