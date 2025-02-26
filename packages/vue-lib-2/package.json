@@ -1,8 +1,11 @@
 {
   "name": "@r-moret/vue-lib-2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": true,
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
