@@ -1,6 +1,6 @@
 {
   "name": "@r-moret/vue-lib-2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "type": "module",
   "publishConfig": {
@@ -34,5 +34,6 @@
     "vite": "^6.1.0",
     "vite-plugin-vue-devtools": "^7.7.2",
     "vue-tsc": "^2.2.2"
-  }
+  },
+  "gitHead": "c7ff722d8fe52fe9d84d760d66332ccc8a6e5067"
 }
